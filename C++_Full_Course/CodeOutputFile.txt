@@ -1,0 +1,5 @@
+Function overriding in C++ programming
+
+I am the function of Base class.
+I am the function of Derived class.
+I am the function of Derived class.

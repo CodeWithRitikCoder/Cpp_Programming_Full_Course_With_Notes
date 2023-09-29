@@ -1,0 +1,1 @@
+This program is used to print already existed char data from file with space using while loop.
